@@ -1,4 +1,4 @@
-namespace BDSA2020.Assignment02
+namespace BDSA2021.Assignment02
 {
     public class Queries
     {

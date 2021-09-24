@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace BDSA2020.Assignment02
+namespace BDSA2021.Assignment02
 {
     public static class Extensions
     {
