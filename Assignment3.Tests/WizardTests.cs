@@ -9,7 +9,7 @@ namespace BDSA2021.Assignment02.Tests
         {
             var wizards = Wizard.Wizards.Value;
 
-            Assert.Equal(2, wizards.Count);
+            Assert.Equal(11, wizards.Count);
         }
 
         [Theory]
